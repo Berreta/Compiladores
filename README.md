@@ -1,10 +1,11 @@
 # Trabalho 4 - Disciplina de Compiladores - UFSCar
-O trabalho consiste em criar um compilador para alguma liguagem com as etapas de análise léxica, sintática, semântica e geração de código. 
+O trabalho consiste em criar um compilador para alguma linguagem com as etapas de análise léxica, sintática, semântica e geração de código. 
 
 # Membros do Grupo
 Felipe Francisco Berreta RA 422649
 
 # Video de Apresentação da Linguagem
+https://youtu.be/qo39uRzM0Io
 
 # Descrição da Linguagem
 Para o desenvolvimento foi criada uma pequena linguagem para criação de personagens de rpg. Cada personagem contém três informações, nome, classe (animago, espadachim, necromante, bardo e paladino) e se ele pertence a classe especial. Neste momento todos são considerados classe especial mas, futuramente serão adicionados outras classes e as classes especiais serão apenas animago e necromante. Cada classe possui seus próprios encantamentos de ataque, defesa, fuga e cura, não sendo possível um personagem de determinada classe acessar os encatamentos de outras classes.
