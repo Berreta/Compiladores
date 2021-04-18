@@ -1,0 +1,7 @@
+{Erro sintatico por digitacao incorreta da classe "espadachi", por causa disso sera retornado o erro "Simbolo nao identificado" pois ela nao pertence a gramatica.}
+inicio
+	Lord Denos: espadachi
+	1: level
+	sim: especial
+fim
+

@@ -1,0 +1,12 @@
+{Sera exibida uma mensagem de erro pois o personagem sera inserido duas vezes}
+inicio
+	Lord Denos: espadachim
+	1: level
+	sim: especial
+fim
+
+inicio
+	Lord Denos: espadachim
+	1: level
+	sim: especial
+fim

@@ -1,0 +1,9 @@
+{Neste arquivo sera retornado dois erro. O erro do personagem Furb nao ter sido declado e o erro de uso de um encantamento de outra classe}
+inicio
+	Lord Denos: bardo
+	1: level
+	sim: especial
+fim
+
+Ataque(Furb, AtaqueBardo)
+Ataque(Lord Denos, AtaqueEspadachim)

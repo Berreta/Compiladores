@@ -1,0 +1,7 @@
+{Dois erros sintaticos serao apresentados. O primeiro sera perto do "fim" as informacoes do personagem estao incompletas. O segundo erro sera na funcao de ataque que incompleta, faltando o nome do encantamento.}
+inicio
+	Lord Felp: espadachim
+
+fim
+
+Ataque(Felp)

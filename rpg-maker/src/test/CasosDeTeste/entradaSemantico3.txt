@@ -1,0 +1,6 @@
+{Esse caso de teste retornara "Símbolo não identificado" pois a classe atirador nao foi declarada na gramatica.}
+inicio
+	Pet: atirador
+	10: level
+	sim: especial
+fim

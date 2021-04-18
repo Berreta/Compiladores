@@ -1,0 +1,8 @@
+{Erro sintatico por causa do comentario nao fechado.}
+{
+
+inicio
+	Lord Denos: espadachim
+	1: level
+	sim: especial
+fim
