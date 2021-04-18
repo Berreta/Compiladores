@@ -7,7 +7,7 @@ grammar RpgGram;
 PalavrasChave: 
     'especial' | 'level' | 'Ataque' | 'Defensa' | 'Fuga' | 'Cure' |
     'inicio ' | 'fim '| 'sim' | 'nao' |
-    'animago' | 'espadachim' | 'necromante' | 'bardos' | 'Paladino';   
+    'animago' | 'espadachim' | 'necromante' | 'bardo' | 'paladino';   
 
 Delimitador: 
     ':';
